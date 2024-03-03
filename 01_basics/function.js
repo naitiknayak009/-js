@@ -31,7 +31,8 @@ console.log(calculateCartPrice(200,400,500))
 
 const user = {
     username: "Naitik",
-    price: 999
+    price: 999,
+    age: 94
 }
 
 function handleObject(anyobject){
